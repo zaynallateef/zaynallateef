@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-allateef)
-[![Codeforces](<img height="30" style="height: 30px;" alt="Codeforces" title="Codeforces" src="//codeforces.org/s/12169/images/codeforces-sponsored-by-ton.png">)](https://codeforces.com/profile/zayn.allateef)
+[![Codeforces](<img height="30" style="height: 30px;" alt="Codeforces" title="Codeforces" src="//codeforces.org/s/12169/images/codeforces-sponsored-by-ton.png">
+)](https://codeforces.com/profile/zayn.allateef)
 
 
 # 💻 Tech Stack:
