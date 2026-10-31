@@ -1,102 +1,116 @@
 <!--
-  GitHub profile README | Zain Allateef
-  Sunset palette inspired by a winter portrait:
-  Midnight #131923 · Charcoal #171D2A · Flame #EB873D · Amber #F6B274 · Cream #F6E6D7
-  All custom illustrations are stored locally under ./assets for reliability.
+  Zain Allateef / GitHub profile
+  Theme: NIGHT VISION + DREAMSCAPES
+  Palette: #0B0B14 (ink) / #FF4056 (eye red) / #B164DD (violet) / #FFA35C (sunset) / #F5E6DE (cream)
+  GIF assets are included under assets/ and play automatically on GitHub.
 -->
 
 <div align="center">
-  <img src="./assets/sunset-header.svg" width="100%" alt="Zain Allateef — AI, NLP, Deep Learning and Full-Stack Development" />
+  <img src="./assets/eye-hero.gif" alt="Animated red eye with a moving cinematic glow" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=500&amp;size=18&amp;duration=3300&amp;pause=1200&amp;color=EB873D&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=54&amp;lines=Building%20intelligent%20applications%2C%20one%20project%20at%20a%20time;Exploring%20NLP%2C%20deep%20learning%20and%20LLM%20systems;Turning%20curiosity%20into%20useful%20software" alt="Building AI applications, exploring NLP and deep learning, and turning ideas into software" />
+  <h1>Hi, I'm Zain Allateef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h1>
+  <p><b>Artificial Intelligence Student · NLP & Deep Learning · Full-Stack Developer</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=FF4056&center=true&vCenter=true&width=820&height=48&lines=Learning+how+intelligent+systems+work;Building+practical+AI+and+web+applications;Turning+ideas+into+things+people+can+use" alt="Animated introduction: learning, building, creating" />
+  <br />
+  <a href="https://github.com/zaynallateef?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-FF4056?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/CONNECT-191625?style=for-the-badge&logo=linkedin&logoColor=FFA35C" alt="LinkedIn" /></a>
 </div>
-
-<p align="center">
-  <a href="https://github.com/zaynallateef?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20projects-B85E39?style=for-the-badge&logo=github&logoColor=F6E6D7" alt="Explore my projects" height="28" /></a>
-  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-171D2A?style=for-the-badge&logo=linkedin&logoColor=F6E6D7" alt="Connect on LinkedIn" height="28" /></a>
-</p>
-
-## ![01](https://img.shields.io/badge/01-EB873D?style=flat-square) About me
-
-I'm an **Artificial Intelligence student** who enjoys the intersection of **AI research, machine learning, and practical software development**. My main interests are **natural language processing (NLP), deep learning, language models, and intelligent applications**.
-
-I also work across the full stack, from building responsive user interfaces to developing application logic and working with data. I like projects that go beyond a model in a notebook: systems people can actually interact with, test, and use.
-
-My work so far includes **document question-answering with RAG, NLP classification experiments, machine learning projects, and browser-based tools**. I'm continuing to explore **AI agents, retrieval systems, model evaluation, and the engineering behind reliable AI products**.
-
-> **My approach:** Learn the fundamentals. Experiment with ideas. Build something real. Improve it.
-
-**Currently focused on:** `NLP` · `Deep Learning` · `RAG` · `LLMs` · `Agentic AI` · `Full-Stack Apps`
 
 ---
 
-## ![02](https://img.shields.io/badge/02-EB873D?style=flat-square) Tools & technologies
+### <img src="https://img.shields.io/badge/01-FF4056?style=flat-square" alt="Section 01" /> About Me
+
+I'm an **Artificial Intelligence student** interested in how we can turn research, algorithms, and data into useful software. My strongest interests are **natural language processing, deep learning, machine learning, and intelligent applications**.
+
+I build across the stack as well, from responsive **React** interfaces to backend logic and data workflows. I particularly enjoy making AI projects feel like real products rather than leaving them as experiments in a notebook.
+
+I've worked on **RAG-based document question answering, text classification, machine learning experiments, and browser-based tools**. Along the way I'm exploring **LLMs, AI agents, retrieval pipelines, and more reliable ways to build and evaluate AI systems**.
+
+Outside a single tech stack, I enjoy design, problem-solving, and exploring new ideas. I learn by building, testing, breaking, and improving things.
+
+> **Always learning. Always building. Always exploring.**
+
+`NLP` · `Deep Learning` · `LLMs` · `RAG` · `AI Engineering` · `Full-Stack Development`
+
+---
+
+### <img src="https://img.shields.io/badge/02-B164DD?style=flat-square" alt="Section 02" /> Visual Interlude
+
+<div align="center">
+  <img src="./assets/artwork-reel.gif" alt="Animated looping gallery: flowered mountain landscape, floating world, vivid surreal seascape, and colorful manga illustration" width="100%" />
+  <sub>Four worlds. One loop. A little visual inspiration between the code.</sub>
+</div>
+
+---
+
+### <img src="https://img.shields.io/badge/03-FFA35C?style=flat-square" alt="Section 03" /> Tech & Tools
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-EB873D?style=for-the-badge&logo=python&logoColor=F6E6D7" alt="Python" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-171D2A?style=for-the-badge&logo=javascript&logoColor=F6E6D7" alt="JavaScript" height="28" />
-  <img src="https://img.shields.io/badge/C%2B%2B-171D2A?style=for-the-badge&logo=cplusplus&logoColor=F6E6D7" alt="C++" height="28" />
-  <img src="https://img.shields.io/badge/Java-171D2A?style=for-the-badge&logo=openjdk&logoColor=F6E6D7" alt="Java" height="28" />
-  <img src="https://img.shields.io/badge/PHP-171D2A?style=for-the-badge&logo=php&logoColor=F6E6D7" alt="PHP" height="28" />
+  <img src="https://img.shields.io/badge/Python-FF4056?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-191625?style=for-the-badge&logo=javascript&logoColor=FFA35C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-191625?style=for-the-badge&logo=cplusplus&logoColor=FFA35C" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-191625?style=for-the-badge&logo=openjdk&logoColor=FFA35C" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-191625?style=for-the-badge&logo=php&logoColor=FFA35C" alt="PHP" />
 </p>
 
-**Web development**
+**AI / Machine Learning / Data**
 
 <p>
-  <img src="https://img.shields.io/badge/React-EB873D?style=for-the-badge&logo=react&logoColor=F6E6D7" alt="React" height="28" />
-  <img src="https://img.shields.io/badge/Vite-171D2A?style=for-the-badge&logo=vite&logoColor=F6E6D7" alt="Vite" height="28" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-171D2A?style=for-the-badge&logo=tailwindcss&logoColor=F6E6D7" alt="Tailwind CSS" height="28" />
-  <img src="https://img.shields.io/badge/Node.js-171D2A?style=for-the-badge&logo=nodedotjs&logoColor=F6E6D7" alt="Node.js" height="28" />
-  <img src="https://img.shields.io/badge/Laravel-171D2A?style=for-the-badge&logo=laravel&logoColor=F6E6D7" alt="Laravel" height="28" />
-  <img src="https://img.shields.io/badge/HTML5-171D2A?style=for-the-badge&logo=html5&logoColor=F6E6D7" alt="HTML5" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-171D2A?style=for-the-badge&logo=css&logoColor=F6E6D7" alt="CSS3" height="28" />
+  <img src="https://img.shields.io/badge/PyTorch-FF4056?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-191625?style=for-the-badge&logo=tensorflow&logoColor=FFA35C" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-191625?style=for-the-badge&logo=scikitlearn&logoColor=FFA35C" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-191625?style=for-the-badge&logo=huggingface&logoColor=FFA35C" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pandas-191625?style=for-the-badge&logo=pandas&logoColor=FFA35C" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-191625?style=for-the-badge&logo=numpy&logoColor=FFA35C" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-191625?style=for-the-badge&logo=opencv&logoColor=FFA35C" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NLTK-191625?style=for-the-badge&logoColor=FFA35C" alt="NLTK" />
+  <img src="https://img.shields.io/badge/spaCy-191625?style=for-the-badge&logoColor=FFA35C" alt="spaCy" />
 </p>
 
-**AI, machine learning & data**
+**Web Development**
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EB873D?style=for-the-badge&logo=pytorch&logoColor=F6E6D7" alt="PyTorch" height="28" />
-  <img src="https://img.shields.io/badge/TensorFlow-171D2A?style=for-the-badge&logo=tensorflow&logoColor=F6E6D7" alt="TensorFlow" height="28" />
-  <img src="https://img.shields.io/badge/scikit--learn-171D2A?style=for-the-badge&logo=scikitlearn&logoColor=F6E6D7" alt="scikit-learn" height="28" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-171D2A?style=for-the-badge&logo=huggingface&logoColor=F6E6D7" alt="Hugging Face" height="28" />
-  <img src="https://img.shields.io/badge/Pandas-171D2A?style=for-the-badge&logo=pandas&logoColor=F6E6D7" alt="Pandas" height="28" />
-  <img src="https://img.shields.io/badge/NumPy-171D2A?style=for-the-badge&logo=numpy&logoColor=F6E6D7" alt="NumPy" height="28" />
-  <img src="https://img.shields.io/badge/OpenCV-171D2A?style=for-the-badge&logo=opencv&logoColor=F6E6D7" alt="OpenCV" height="28" />
-  <img src="https://img.shields.io/badge/NLTK-171D2A?style=for-the-badge&logoColor=F6E6D7" alt="NLTK" height="28" />
-  <img src="https://img.shields.io/badge/spaCy-171D2A?style=for-the-badge&logo=spacy&logoColor=F6E6D7" alt="spaCy" height="28" />
+  <img src="https://img.shields.io/badge/React-FF4056?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-191625?style=for-the-badge&logo=vite&logoColor=FFA35C" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-191625?style=for-the-badge&logo=tailwindcss&logoColor=FFA35C" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-191625?style=for-the-badge&logo=nodedotjs&logoColor=FFA35C" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-191625?style=for-the-badge&logo=laravel&logoColor=FFA35C" alt="Laravel" />
+  <img src="https://img.shields.io/badge/HTML5-191625?style=for-the-badge&logo=html5&logoColor=FFA35C" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-191625?style=for-the-badge&logo=css&logoColor=FFA35C" alt="CSS3" />
 </p>
 
-**Databases & design**
+**Databases & Creative Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-EB873D?style=for-the-badge&logo=mysql&logoColor=F6E6D7" alt="MySQL" height="28" />
-  <img src="https://img.shields.io/badge/SQL%20Server-171D2A?style=for-the-badge&logoColor=F6E6D7" alt="SQL Server" height="28" />
-  <img src="https://img.shields.io/badge/Figma-171D2A?style=for-the-badge&logo=figma&logoColor=F6E6D7" alt="Figma" height="28" />
-  <img src="https://img.shields.io/badge/Photoshop-171D2A?style=for-the-badge&logo=adobephotoshop&logoColor=F6E6D7" alt="Photoshop" height="28" />
-  <img src="https://img.shields.io/badge/Illustrator-171D2A?style=for-the-badge&logo=adobeillustrator&logoColor=F6E6D7" alt="Illustrator" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-FF4056?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-191625?style=for-the-badge&logoColor=FFA35C" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Figma-191625?style=for-the-badge&logo=figma&logoColor=FFA35C" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-191625?style=for-the-badge&logo=adobephotoshop&logoColor=FFA35C" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-191625?style=for-the-badge&logo=adobeillustrator&logoColor=FFA35C" alt="Illustrator" />
 </p>
 
 <details>
-<summary><b>What I'm exploring next</b></summary>
-<br />
-Retrieval-augmented generation, agent workflows with LangChain / LangGraph, vector search, evaluation pipelines, and deploying AI-powered web applications.
+  <summary><b>Currently exploring ▸</b></summary>
+  <p>AI agents · LangChain / LangGraph · vector search · hybrid retrieval · LLM evaluation · AI-powered applications</p>
 </details>
 
 ---
 
-## ![03](https://img.shields.io/badge/03-EB873D?style=flat-square) Let's connect
+### <img src="https://img.shields.io/badge/04-FF4056?style=flat-square" alt="Section 04" /> Say Hello
 
-I enjoy collaborating on **AI, NLP, data, and full-stack projects**, sharing ideas, and learning from other builders.
+Interested in **AI, NLP, machine learning, creative coding, or full-stack projects**? I'm always open to exchanging ideas and learning from other builders.
 
-- **LinkedIn:** [zain-allateef](https://www.linkedin.com/in/zain-allateef/)
-- **GitHub:** [@zaynallateef](https://github.com/zaynallateef)
-
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/LINKEDIN-FF4056?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/zaynallateef"><img src="https://img.shields.io/badge/GITHUB-191625?style=for-the-badge&logo=github&logoColor=FFA35C" alt="GitHub" /></a>
+</p>
 
 <div align="center">
-  <img src="./assets/sunset-footer.svg" width="100%" alt="Always learning. Always building. Always exploring." />
+  <img src="./assets/pixel-dream.gif" alt="Animated pink pixel creature beneath a crescent moon" width="390" />
+  <br />
+  <sub>✦ See you in the next project ✦</sub>
 </div>
