@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="130" viewBox="0 0 1280 130" role="img" aria-labelledby="t">
+<title id="t">Always learning. Always building. Always exploring.</title>
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#131923"/><stop offset=".55" stop-color="#392834"/><stop offset="1" stop-color="#181B27"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#EC6D3D"/><stop offset=".5" stop-color="#F6B274"/><stop offset="1" stop-color="#E56D3D"/></linearGradient>
+</defs>
+<rect width="1280" height="130" rx="18" fill="url(#g)"/>
+<rect x="50" y="22" width="1180" height="2" rx="1" fill="url(#a)" opacity=".75"/>
+<circle cx="105" cy="76" r="21" fill="#F5A259" opacity=".8"/>
+<path d="M60 107l49-34 26 24 33-15 30 25" fill="#252634"/>
+<text x="640" y="69" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#F6E6D7">ALWAYS LEARNING. ALWAYS BUILDING.</text>
+<text x="640" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4" fill="#F39C5A">ALWAYS EXPLORING.</text>
+</svg>
