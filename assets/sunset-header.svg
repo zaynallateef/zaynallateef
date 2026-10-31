@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+<title id="title">Zain Allateef — Artificial Intelligence and Software Development</title>
+<desc id="desc">A dark sunset-inspired banner with amber glow, orange mountains, and the name Zain Allateef.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101722"/><stop offset=".58" stop-color="#252331"/><stop offset="1" stop-color="#5D3433"/></linearGradient>
+  <radialGradient id="glow" cx="70%" cy="60%" r="65%"><stop offset="0" stop-color="#FBA24B" stop-opacity=".7"/><stop offset=".36" stop-color="#D65F33" stop-opacity=".20"/><stop offset="1" stop-color="#D65F33" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD29A"/><stop offset=".55" stop-color="#F9A14E"/><stop offset="1" stop-color="#E26838"/></linearGradient>
+  <linearGradient id="ridge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#141924"/><stop offset=".6" stop-color="#422C34"/><stop offset="1" stop-color="#301D2B"/></linearGradient>
+  <clipPath id="round"><rect width="1280" height="390" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1280" height="390" fill="url(#bg)"/><rect width="1280" height="390" fill="url(#glow)"/>
+ <g fill="none" stroke="#F6B67B" stroke-opacity=".18" stroke-width="1"><path d="M0 85H1280M0 322H1280"/><path d="M1080 0V390"/><path d="M32 44h48m-48 0v48M1248 44h-48m48 0v48"/></g>
+ <g fill="#F9C18A" opacity=".68"><circle cx="91" cy="110" r="2.1"/><circle cx="210" cy="76" r="1.4"/><circle cx="675" cy="54" r="1.6"/><circle cx="1155" cy="72" r="2"/><circle cx="1195" cy="170" r="1.5"/></g>
+ <g fill="#FFD09A"><circle cx="825" cy="93" r="2.8"><animate attributeName="opacity" values=".2;1;.2" dur="4.4s" repeatCount="indefinite"/></circle><circle cx="1138" cy="114" r="1.7"><animate attributeName="opacity" values="1;.1;1" dur="3.1s" repeatCount="indefinite"/></circle></g>
+ <circle cx="1011" cy="220" r="172" fill="#F69754" opacity=".08"/><circle cx="1011" cy="220" r="132" fill="url(#sun)" opacity=".91"/>
+ <path d="M876 250H1144M896 268H1125M923 286H1102" stroke="#251F2A" stroke-width="9" opacity=".31"/>
+ <path d="M0 337L160 287 290 316 475 253 637 321 817 272 978 342 1130 288 1280 332V390H0Z" fill="url(#ridge)"/>
+ <path d="M698 390L838 310 922 336 1023 280 1150 332 1280 283V390Z" fill="#191B27" opacity=".9"/>
+ <path d="M0 363L166 333 348 367 490 328 643 362 782 348 1009 375 1280 330V390H0Z" fill="#131923" opacity=".92"/>
+ <rect x="52" y="62" width="8" height="8" rx="2" fill="#F59B53"/>
+ <text x="78" y="73" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="4" fill="#F5C59C">HELLO, WORLD / I'M</text>
+ <text x="52" y="182" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="800" letter-spacing="-2" fill="#FFF2E5">ZAIN</text>
+ <text x="52" y="266" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="800" letter-spacing="-2" fill="#F49A52">ALLATEEF</text>
+ <rect x="56" y="294" width="78" height="4" rx="2" fill="#F49A52"/>
+ <text x="151" y="301" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="500" letter-spacing="1.0" fill="#F6E1CD">AI • NLP • DEEP LEARNING • FULL-STACK</text>
+ <text x="57" y="354" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2" fill="#D9BDAA">BUILD  /  LEARN  /  EXPLORE</text>
+</g></svg>
