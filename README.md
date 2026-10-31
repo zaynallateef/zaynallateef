@@ -32,41 +32,7 @@ My work so far includes **document question-answering with RAG, NLP classificati
 
 ---
 
-## ![02](https://img.shields.io/badge/02-EB873D?style=flat-square) Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / <a href="https://github.com/zaynallateef/pdf_RAG_system_qwenLLM">PDF RAG Q&amp;A</a></h3>
-      <p>Question-answering over research PDFs using sentence embeddings, FAISS retrieval, and a local Qwen language model. Includes source-paper and page references.</p>
-      <code>Python</code> <code>RAG</code> <code>FAISS</code> <code>Qwen</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / <a href="https://github.com/zaynallateef/Emotion-Recognition-from-Text-CNN-vs-LSTM">Emotion Recognition</a></h3>
-      <p>A deep learning comparison of 1D CNN and LSTM architectures for classifying emotions in text, with evaluation and error analysis.</p>
-      <code>NLP</code> <code>TensorFlow</code> <code>CNN</code> <code>LSTM</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / <a href="https://github.com/zaynallateef/forma">Forma — PDF Tools</a></h3>
-      <p>A browser-based PDF toolkit for conversion, page editing, and English/Arabic OCR. Designed to run locally in the user's browser without an account.</p>
-      <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>OCR</code>
-      <p><a href="https://forma-6l6.pages.dev/">Live website</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / <a href="https://github.com/zaynallateef/KaggleJo">KaggleJo</a></h3>
-      <p>A searchable directory and leaderboard for Kaggle community members who publicly list Jordan as their location, with filtering and comparisons.</p>
-      <code>Flask</code> <code>SQLite</code> <code>React</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
-</table>
-
-<p align="right"><a href="https://github.com/zaynallateef?tab=repositories">Explore all repositories →</a></p>
-
----
-
-## ![03](https://img.shields.io/badge/03-EB873D?style=flat-square) Tools & technologies
+## ![02](https://img.shields.io/badge/02-EB873D?style=flat-square) Tools & technologies
 
 **Languages**
 
@@ -122,7 +88,7 @@ Retrieval-augmented generation, agent workflows with LangChain / LangGraph, vect
 
 ---
 
-## ![04](https://img.shields.io/badge/04-EB873D?style=flat-square) Let's connect
+## ![03](https://img.shields.io/badge/03-EB873D?style=flat-square) Let's connect
 
 I enjoy collaborating on **AI, NLP, data, and full-stack projects**, sharing ideas, and learning from other builders.
 
