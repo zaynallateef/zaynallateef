@@ -1,116 +1,104 @@
 <!--
-  Zain Allateef / GitHub profile
-  Theme: NIGHT VISION + DREAMSCAPES
-  Palette: #0B0B14 (ink) / #FF4056 (eye red) / #B164DD (violet) / #FFA35C (sunset) / #F5E6DE (cream)
-  GIF assets are included under assets/ and play automatically on GitHub.
+  Zain Allateef — Crimson Minimal / Dark Anime
+  Palette: #100B12 (ink) / #21141D (shadow) / #C82037 (crimson)
+           #FF6176 (soft red) / #FFDCE2 (pale pink)
+  Notes: no scripts, CSS, or external image hosting required for local GIFs.
 -->
 
 <div align="center">
-  <img src="./assets/eye-hero.gif" alt="Animated red eye with a moving cinematic glow" width="100%" />
-</div>
-
-<div align="center">
-  <h1>Hi, I'm Zain Allateef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" /></h1>
-  <p><b>Artificial Intelligence Student · NLP & Deep Learning · Full-Stack Developer</b></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=FF4056&center=true&vCenter=true&width=820&height=48&lines=Learning+how+intelligent+systems+work;Building+practical+AI+and+web+applications;Turning+ideas+into+things+people+can+use" alt="Animated introduction: learning, building, creating" />
+  <img src="./assets/eye-hero.gif" width="100%" alt="Animated crimson anime eye" />
+  <h1>ZAIN ALLATEEF</h1>
+  <strong>AI Engineering · Natural Language Processing · Full-Stack Development</strong>
+  <br /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=FF6176&center=true&vCenter=true&width=820&height=45&lines=Building+intelligent+software;Exploring+NLP%2C+deep+learning+and+LLMs;Learning.+Building.+Exploring." alt="Animated introduction" />
   <br />
-  <a href="https://github.com/zaynallateef?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-FF4056?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
-  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/CONNECT-191625?style=for-the-badge&logo=linkedin&logoColor=FFA35C" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/LINKEDIN-21141D?style=for-the-badge&logo=linkedin&logoColor=FF6176" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/zainallateef"><img src="https://img.shields.io/badge/KAGGLE-C82037?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" /></a>
+  <a href="https://github.com/zaynallateef?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-21141D?style=for-the-badge&logo=github&logoColor=FF6176" alt="GitHub projects" /></a>
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/01-FF4056?style=flat-square" alt="Section 01" /> About Me
+## <img src="https://img.shields.io/badge/01-C82037?style=flat-square&labelColor=21141D" alt="01" /> ABOUT ME
 
-I'm an **Artificial Intelligence student** interested in how we can turn research, algorithms, and data into useful software. My strongest interests are **natural language processing, deep learning, machine learning, and intelligent applications**.
+I'm an **Artificial Intelligence student** who enjoys building software where **machine learning, language, and real-world problems** meet. I'm particularly interested in **NLP, deep learning, LLMs, retrieval-augmented generation (RAG), and intelligent applications**.
 
-I build across the stack as well, from responsive **React** interfaces to backend logic and data workflows. I particularly enjoy making AI projects feel like real products rather than leaving them as experiments in a notebook.
+I have hands-on experience with **full-stack development**, Python, data analysis, and machine learning. I like taking ideas beyond experiments and turning them into tools that people can actually try, use, and improve.
 
-I've worked on **RAG-based document question answering, text classification, machine learning experiments, and browser-based tools**. Along the way I'm exploring **LLMs, AI agents, retrieval pipelines, and more reliable ways to build and evaluate AI systems**.
+My recent work spans **document question answering, text classification, ML experiments, and browser-based utilities**. I also enjoy design, competitive problem-solving, and learning how to make AI applications more reliable.
 
-Outside a single tech stack, I enjoy design, problem-solving, and exploring new ideas. I learn by building, testing, breaking, and improving things.
-
-> **Always learning. Always building. Always exploring.**
-
-`NLP` · `Deep Learning` · `LLMs` · `RAG` · `AI Engineering` · `Full-Stack Development`
-
----
-
-### <img src="https://img.shields.io/badge/02-B164DD?style=flat-square" alt="Section 02" /> Visual Interlude
+> *Always learning. Always building. Always exploring.*
 
 <div align="center">
-  <img src="./assets/artwork-reel.gif" alt="Animated looping gallery: flowered mountain landscape, floating world, vivid surreal seascape, and colorful manga illustration" width="100%" />
-  <sub>Four worlds. One loop. A little visual inspiration between the code.</sub>
+  <img src="./assets/divider-frame.gif" width="78%" alt="Animated crimson anime character" />
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/03-FFA35C?style=flat-square" alt="Section 03" /> Tech & Tools
+## <img src="https://img.shields.io/badge/02-C82037?style=flat-square&labelColor=21141D" alt="02" /> WHAT I'M EXPLORING
+
+**AI & language** — NLP, Transformers, deep learning, RAG, LLMs, evaluation, and AI agents.
+
+**Software engineering** — React interfaces, backend APIs, databases, and production-oriented workflows.
+
+**Creative problem-solving** — Data analysis, UI/UX, experimentation, and research-driven projects.
+
+<div align="center">
+  <img src="./assets/divider-sword.gif" width="88%" alt="Animated crimson sword" />
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/03-C82037?style=flat-square&labelColor=21141D" alt="03" /> TECH STACK
 
 **Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-FF4056?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-191625?style=for-the-badge&logo=javascript&logoColor=FFA35C" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-191625?style=for-the-badge&logo=cplusplus&logoColor=FFA35C" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-191625?style=for-the-badge&logo=openjdk&logoColor=FFA35C" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-191625?style=for-the-badge&logo=php&logoColor=FFA35C" alt="PHP" />
-</p>
+![Python](https://img.shields.io/badge/Python-C82037?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21141D?style=flat-square&logo=javascript&logoColor=FF6176)
+![C++](https://img.shields.io/badge/C++-21141D?style=flat-square&logo=cplusplus&logoColor=FF6176)
+![Java](https://img.shields.io/badge/Java-21141D?style=flat-square&logo=openjdk&logoColor=FF6176)
+![PHP](https://img.shields.io/badge/PHP-21141D?style=flat-square&logo=php&logoColor=FF6176)
 
-**AI / Machine Learning / Data**
+**AI / Data**
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-FF4056?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-191625?style=for-the-badge&logo=tensorflow&logoColor=FFA35C" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-191625?style=for-the-badge&logo=scikitlearn&logoColor=FFA35C" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging_Face-191625?style=for-the-badge&logo=huggingface&logoColor=FFA35C" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-191625?style=for-the-badge&logo=pandas&logoColor=FFA35C" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-191625?style=for-the-badge&logo=numpy&logoColor=FFA35C" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-191625?style=for-the-badge&logo=opencv&logoColor=FFA35C" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NLTK-191625?style=for-the-badge&logoColor=FFA35C" alt="NLTK" />
-  <img src="https://img.shields.io/badge/spaCy-191625?style=for-the-badge&logoColor=FFA35C" alt="spaCy" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-C82037?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-21141D?style=flat-square&logo=tensorflow&logoColor=FF6176)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-21141D?style=flat-square&logo=scikitlearn&logoColor=FF6176)
+![Pandas](https://img.shields.io/badge/Pandas-21141D?style=flat-square&logo=pandas&logoColor=FF6176)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-21141D?style=flat-square&logo=huggingface&logoColor=FF6176)
 
-**Web Development**
+**Web & Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/React-FF4056?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-191625?style=for-the-badge&logo=vite&logoColor=FFA35C" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-191625?style=for-the-badge&logo=tailwindcss&logoColor=FFA35C" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-191625?style=for-the-badge&logo=nodedotjs&logoColor=FFA35C" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Laravel-191625?style=for-the-badge&logo=laravel&logoColor=FFA35C" alt="Laravel" />
-  <img src="https://img.shields.io/badge/HTML5-191625?style=for-the-badge&logo=html5&logoColor=FFA35C" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-191625?style=for-the-badge&logo=css&logoColor=FFA35C" alt="CSS3" />
-</p>
-
-**Databases & Creative Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-FF4056?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-191625?style=for-the-badge&logoColor=FFA35C" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Figma-191625?style=for-the-badge&logo=figma&logoColor=FFA35C" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-191625?style=for-the-badge&logo=adobephotoshop&logoColor=FFA35C" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-191625?style=for-the-badge&logo=adobeillustrator&logoColor=FFA35C" alt="Illustrator" />
-</p>
+![React](https://img.shields.io/badge/React-C82037?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-21141D?style=flat-square&logo=vite&logoColor=FF6176)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-21141D?style=flat-square&logo=tailwindcss&logoColor=FF6176)
+![Node.js](https://img.shields.io/badge/Node.js-21141D?style=flat-square&logo=nodedotjs&logoColor=FF6176)
+![MySQL](https://img.shields.io/badge/MySQL-21141D?style=flat-square&logo=mysql&logoColor=FF6176)
+![Figma](https://img.shields.io/badge/Figma-21141D?style=flat-square&logo=figma&logoColor=FF6176)
 
 <details>
-  <summary><b>Currently exploring ▸</b></summary>
-  <p>AI agents · LangChain / LangGraph · vector search · hybrid retrieval · LLM evaluation · AI-powered applications</p>
+  <summary><strong>More tools & libraries</strong></summary>
+  <p>NumPy · NLTK · spaCy · OpenCV · Matplotlib · HTML · CSS · Laravel · SQL Server · Photoshop · Illustrator</p>
 </details>
+
+<div align="center">
+  <img src="./assets/divider-campfire.gif" width="68%" alt="Animated atmospheric campfire" />
+</div>
 
 ---
 
-### <img src="https://img.shields.io/badge/04-FF4056?style=flat-square" alt="Section 04" /> Say Hello
+## <img src="https://img.shields.io/badge/04-C82037?style=flat-square&labelColor=21141D" alt="04" /> LET'S CONNECT
 
-Interested in **AI, NLP, machine learning, creative coding, or full-stack projects**? I'm always open to exchanging ideas and learning from other builders.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/LINKEDIN-FF4056?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/zaynallateef"><img src="https://img.shields.io/badge/GITHUB-191625?style=for-the-badge&logo=github&logoColor=FFA35C" alt="GitHub" /></a>
-</p>
+Always interested in connecting with people working on **AI, NLP, data, research, and full-stack development**.
 
 <div align="center">
-  <img src="./assets/pixel-dream.gif" alt="Animated pink pixel creature beneath a crescent moon" width="390" />
+  <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/LINKEDIN-C82037?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/zainallateef"><img src="https://img.shields.io/badge/KAGGLE-21141D?style=for-the-badge&logo=kaggle&logoColor=FF6176" alt="Kaggle" /></a>
+  <a href="https://github.com/zaynallateef"><img src="https://img.shields.io/badge/GITHUB-21141D?style=for-the-badge&logo=github&logoColor=FF6176" alt="GitHub" /></a>
+  <br /><br />
+  <img src="./assets/footer-flowers.gif" width="80%" alt="Slowly drifting sunset flowers" />
+  <br /><br />
+  <img src="./assets/pixel-dream.gif" width="250" alt="Pixel-art creature beneath a crescent moon" />
   <br />
   <sub>✦ See you in the next project ✦</sub>
 </div>
