@@ -82,7 +82,7 @@ My recent work spans **document question answering, text classification, ML expe
 </details>
 
 <div align="center">
-  <img src="./assets/tech-red-field.jpg" width="68%" alt="Crimson field and drifting petals" />
+  <img src="/assets/2972D1F4-F722-4F09-9608-1DE9B830A281.gif" width="88%" alt="Crimson field and drifting petals" />
 </div>
 
 ---
