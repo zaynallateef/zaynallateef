@@ -44,7 +44,7 @@ My recent work spans **document question answering, text classification, ML expe
 **Creative problem-solving** — Data analysis, UI/UX, experimentation, and research-driven projects.
 
 <div align="center">
-  <img src="./assets/divider-sword.gif" width="88%" alt="Animated crimson sword" />
+  <img src="./assets/exploring-red-motorcycle.gif" width="88%" alt="Animated red motorcycle" />
 </div>
 
 ---
@@ -82,7 +82,7 @@ My recent work spans **document question answering, text classification, ML expe
 </details>
 
 <div align="center">
-  <img src="./assets/divider-campfire.gif" width="68%" alt="Animated atmospheric campfire" />
+  <img src="./assets/tech-red-field.jpg" width="68%" alt="Crimson field and drifting petals" />
 </div>
 
 ---
@@ -97,8 +97,6 @@ Always interested in connecting with people working on **AI, NLP, data, research
   <a href="https://github.com/zaynallateef"><img src="https://img.shields.io/badge/GITHUB-21141D?style=for-the-badge&logo=github&logoColor=FF6176" alt="GitHub" /></a>
   <br /><br />
   <img src="./assets/footer-flowers.gif" width="80%" alt="Slowly drifting sunset flowers" />
-  <br /><br />
-  <img src="./assets/pixel-dream.gif" width="250" alt="Pixel-art creature beneath a crescent moon" />
   <br />
   <sub>✦ See you in the next project ✦</sub>
 </div>
