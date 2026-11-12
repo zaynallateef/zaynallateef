@@ -27,7 +27,7 @@
 
 ---
 
-## `01 //` WHO'S BEHIND THE SCREEN? ✳
+## `01 //` WHO'S BEHIND THE SCREEN? 
 
 Hey, I'm **Zain** — an **Artificial Intelligence student** with a thing for making ideas *actually work*.
 
@@ -45,7 +45,7 @@ I enjoy the full process: exploring the data, training and evaluating models, bu
 
 ---
 
-## `02 //` CURRENT QUESTS ★
+## `02 //` CURRENT QUESTS 
 
 <div align="center">
   <img src="./assets/current-quests.svg" width="100%" alt="Three colorful retro cards for NLP, full-stack software, and creative research" />
@@ -59,7 +59,7 @@ I enjoy the full process: exploring the data, training and evaluating models, bu
 
 ---
 
-## `03 //` THE TOOLBOX ⚡
+## `03 //` THE TOOLBOX
 
 <div align="center">
   <img src="./assets/tech-stickers.svg" width="100%" alt="Retro pixel sticker strip featuring Python, TensorFlow, React, Supabase and Figma" />
@@ -102,7 +102,7 @@ I enjoy the full process: exploring the data, training and evaluating models, bu
 
 ---
 
-## `04 //` PING ME ON THE INTERNET ↗
+## `04 //` PING ME ON THE INTERNET 
 
 I like meeting people who are building in **AI, NLP, data, research, open source, and full-stack development**. Feel free to connect, share work, or start a conversation.
 
