@@ -14,7 +14,7 @@
   <br />
   <img src="./assets/build-mode.gif" width="83%" alt="Animated retro status ticker: now loading, next big idea" />
 
-  <p><strong>AI ENGINEERING ✳ NLP ✳ DEEP LEARNING ✳ FULL-STACK WEB</strong></p>
+  <p><strong>AI ENGINEERING - NLP - DEEP LEARNING - FULL-STACK WEB</strong></p>
 
   <a href="https://www.linkedin.com/in/zain-allateef/"><img src="https://img.shields.io/badge/LET'S_CONNECT-15131C?style=for-the-badge&logo=linkedin&logoColor=71DFFA" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/zainallateef"><img src="https://img.shields.io/badge/KAGGLE_LAB-FF56B3?style=for-the-badge&logo=kaggle&logoColor=15131C" alt="Kaggle" /></a>
