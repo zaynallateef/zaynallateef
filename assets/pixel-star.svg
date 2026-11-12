@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80" role="img">
+<defs>
+<pattern id="check" width="34" height="34" patternUnits="userSpaceOnUse"><rect width="34" height="34" fill="#FFF8E8"/><rect width="17" height="17" fill="#15131C"/><rect x="17" y="17" width="17" height="17" fill="#15131C"/></pattern>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#15131C" stroke-width="1" opacity=".14"/></pattern>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="2.5" fill="#15131C" opacity=".5"/></pattern>
+<linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FAFFFF"/><stop offset=".27" stop-color="#84CFFF"/><stop offset=".52" stop-color="#D8C1FF"/><stop offset=".72" stop-color="#FAFDFF"/><stop offset="1" stop-color="#78AFDB"/></linearGradient>
+</defs>
+<polygon points="40.00,6.00 45.20,27.44 64.04,15.96 52.56,34.80 74.00,40.00 52.56,45.20 64.04,64.04 45.20,52.56 40.00,74.00 34.80,52.56 15.96,64.04 27.44,45.20 6.00,40.00 27.44,34.80 15.96,15.96 34.80,27.44" fill="#DCFF3F" stroke="#15131C" stroke-width="3"/></svg>
