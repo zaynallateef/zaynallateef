@@ -115,6 +115,4 @@ I like meeting people who are building in **AI, NLP, data, research, open source
   <br /><br />
   <img src="./assets/footer-signal.svg" width="100%" alt="Y2K neon footer: Signal found! Let's build something cool" />
 
-  <sub>✳ SYSTEM STATUS: ALWAYS BUILDING ✳</sub>
-
 </div>
